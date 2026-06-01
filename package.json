@@ -1,5 +1,5 @@
 {
-  "name": "unity-behavior-tree",
+  "name": "com.air.unity-behavior-tree",
   "displayName": "Behavior Tree",
   "version": "0.1.0",
   "unity": "2020.3",
